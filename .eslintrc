@@ -1,0 +1,9 @@
+{
+  "extends": "rallycoding",
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "arrowFunctions": true
+    }
+  }
+}
